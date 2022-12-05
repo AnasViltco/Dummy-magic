@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76b3121f.css",
+    "main.js": "/static/js/main.89d83989.js",
+    "static/js/787.f505e0ba.chunk.js": "/static/js/787.f505e0ba.chunk.js",
+    "static/media/YasBayMap.jpg": "/static/media/YasBayMap.18fde44a051c3d1d1e8a.jpg",
+    "static/media/MainScreenBackground.jpg": "/static/media/MainScreenBackground.727e4065a4e55e71a464.jpg",
+    "static/media/YBW.png": "/static/media/YBW.0790590e80b1f8eadff3.png",
+    "static/media/YasMarinaMap.jpg": "/static/media/YasMarinaMap.6c5fb76cf582d22d7994.jpg",
+    "static/media/YasDome.png": "/static/media/YasDome.f697f37c33468ae9d722.png",
+    "static/media/WelcomeArch.png": "/static/media/WelcomeArch.ae8bd331f00ecdf8b8b5.png",
+    "static/media/GiftBox.png": "/static/media/GiftBox.7e9508564b45b671c1b9.png",
+    "static/media/Santa_sMailbox.png": "/static/media/Santa_sMailbox.eacfbe9846b9b95575a2.png",
+    "static/media/ChristmasTree.png": "/static/media/ChristmasTree.70eb6e2469e17aab50a6.png",
+    "static/media/Santa_sGrotto.png": "/static/media/Santa_sGrotto.3b3820f299f2a58f37ad.png",
+    "static/media/SnowGlobe.png": "/static/media/SnowGlobe.2ef5f6984dacaf7bca6f.png",
+    "static/media/MarketPlace.png": "/static/media/MarketPlace.627b748fe4954e87b36a.png",
+    "static/media/NutcrackerShop.png": "/static/media/NutcrackerShop.def4216d81d128708e68.png",
+    "static/media/Asia Asia.png": "/static/media/Asia Asia.3df1a96025a323268004.png",
+    "static/media/MagicOfWinterLogo.png": "/static/media/MagicOfWinterLogo.d568632f4a3f32caa388.png",
+    "static/media/Akiba Dori.png": "/static/media/Akiba Dori.5cbc4a544eb9417e8be0.png",
+    "static/media/Central.png": "/static/media/Central.0c868db31959efb30855.png",
+    "static/media/YasIslandLogo.png": "/static/media/YasIslandLogo.b4a26d283ebd2b7453e0.png",
+    "static/media/Daikan.png": "/static/media/Daikan.c8757d277fd1daced2d5.png",
+    "static/media/YasMarinaLogo.png": "/static/media/YasMarinaLogo.43260812637d0882a1f1.png",
+    "static/media/Drop Ad.png": "/static/media/Drop Ad.fa9a11b6084d559e3689.png",
+    "static/media/You-Are-here.png": "/static/media/You-Are-here.571753e0f46f303b3a51.png",
+    "index.html": "/index.html",
+    "main.76b3121f.css.map": "/static/css/main.76b3121f.css.map",
+    "main.89d83989.js.map": "/static/js/main.89d83989.js.map",
+    "787.f505e0ba.chunk.js.map": "/static/js/787.f505e0ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b3121f.css",
+    "static/js/main.89d83989.js"
+  ]
+}

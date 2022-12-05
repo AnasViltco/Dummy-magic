@@ -1,0 +1,47 @@
+
+@media only screen and (min-width: 575px) {
+    .homePagebg{
+        background-image: url("../homeScreenImages/MainScreenBackground.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+    }
+    .img-fluid{
+        width: 180px;
+    }
+    .imgIcon{
+        width: 200px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .homePagebg{
+        background-image: url("../homeScreenImages/MainScreenBackground.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 110%;
+    }
+    .img-fluid{
+        width: 90px;
+    }
+    .imgIcon{
+        width: 200px;
+    }
+}
+
+.homelogo{
+    padding-top: 200px;
+}
+.marinaButton{
+    background-color: #C5202E;
+    border: 1px solid #C5202E;
+}
+.YasButton{
+    background-color: #01245C;
+    border: 1px solid #01245C;
+}
+.imgSection{
+    position: absolute;
+    top: 120px;
+}

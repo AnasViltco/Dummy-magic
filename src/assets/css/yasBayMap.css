@@ -1,0 +1,879 @@
+
+.overflow_water
+{
+ overflow: hidden !important;
+  height: 100vh;
+
+}
+.show-icons{
+  visibility: hidden;
+}
+.img_widds
+{
+  width: 2%;
+}
+.modal-img{
+  width: 200px;
+}
+
+.negative_mars
+{
+
+  margin-top: -53% !important;
+  margin-left: 50% !important;
+  
+}
+.negative_mar1
+{
+  
+  margin-top: -28%;
+  margin-left: 42%;
+  
+}
+.imd_widths
+{
+  width: 30%;
+}
+
+.marginsets{
+  margin-left: 3.5%;
+  margin-top: 14.5%;
+}
+.marginsets1{
+  margin-left: 1%;
+  margin-top: 0%;
+}
+.marginsets2{
+  margin-left: 1.5%;
+  margin-top: 5%;
+}
+.marginsets3{
+  margin-left: 0.8%;
+  margin-top: 8.5%;
+}
+.marginsets4{
+  margin-left: -0.4%;
+  margin-top: 7.4%;
+}
+.marginsets5{
+  margin-left: 0.5%;
+  margin-top: -47.5%;
+}
+.marginsets6{
+  margin-left: 0.5%;
+  margin-top: 25.5%;
+}
+.marginsets7{
+  margin-left: 2.2%;
+  margin-top: 13%;
+}
+.marginsets8{
+  margin-left: -2.5%;
+  margin-top: 0%;
+}
+.marginsets9{
+  margin-left: 0.5%;
+  margin-top: 0.3%;
+}
+@media screen and (max-width: 980px) {
+  .set6Img{
+    width: 25px !important;
+  }
+  .img_widds
+  {
+    width: 12%;
+  }
+  
+  .negative_mars
+  {
+    margin-top: -160%;
+    margin-left: 21%;
+    
+  }
+  
+.imd_widths
+{
+  width: 100%;
+}
+.marginsets5{
+  margin-left: 3.5%;
+  margin-top: -353.5%;
+}
+.marginsets6{
+  margin-left: 5.5%;
+  margin-top: 165.5%;
+}
+.marginsets7{
+  margin-left: 20.5%;
+  margin-top: 87%;
+}
+.marginsets8{
+  margin-left: -11.2%;
+  margin-top: -3%;
+}
+.marginsets9{
+  margin-left: 3.8%;
+  margin-top: 12.3%;
+}
+}
+/* @media only screen and (min-width: 600px) {
+  .yasBayBg {
+    background-image: url("../areaMapImages/YasBayMap.jpg");
+    height: 3000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .yasBayBg {
+    background-image: url("../areaMapImages/YasBayMap.jpg");
+    height: 3000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+} */
+/* .yasbayImg {
+  position: absolute;
+  width: 100%;
+}
+
+.qrImage {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+
+.locImage {
+  position: absolute;
+  height: 180px;
+  width: 180px;
+}
+
+.lmImage {
+  position: absolute;
+  width: 100px;
+} */
+
+@media only screen and (max-width: 400px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 22px;
+    left: 113%;
+  }
+  .qrlocation2 {
+    top: 943px;
+    left: 159%;
+  }
+  .qrlocation3 {
+    top: 1050px;
+    left: 121%;
+  }
+  .qrlocation4 {
+    top: 1483px;
+    left: 132%;
+  }
+  .qrlocation5 {
+    top: 2047px;
+    left: 113%;
+  }
+  .qrlocation6 {
+    top: 2677px;
+    left: 103%;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 33%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 132%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 118%;
+  }
+  .lmlocation4 {
+    top: 1995px;
+    left: 175%;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 113%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 128%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 60%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 2680px;
+    left: 96%;
+  }
+
+  .location2 {
+    top: 2500px;
+    left: 92%;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 65%;
+  }
+
+  .location4 {
+    top: 2375px;
+    left: 138%;
+  }
+
+  .location5 {
+    top: 1520px;
+    left: 123%;
+  }
+
+  .location6 {
+    top: 80px;
+    left: 103%;
+  }
+}
+@media only screen and (max-width: 768px) and (min-width: 560px) {
+  .qrlocation6 {
+    top: 960px !important;
+    left: 46% !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+  .qrlocation5 {
+    top: 700px !important;
+    left: 53% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .qrlocation2 {
+    top: 300px !important;
+    left: 58% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .qrlocation3 {
+    top: 350px !important;
+    left: 51% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .qrlocation1 {
+    top: 11px !important;
+    left: 49% !important;
+    width: 50px;
+    height: 50px;
+  }
+  .location2 {
+    top: 935px !important;
+    left: 52% !important;
+    width: 50px !important;
+    height: 50px !important;
+  }
+  .location1 {
+    top: 900px !important;
+    left: 47% !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  .location4 {
+    top: 900px !important;
+    left: 58% !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+  .location5 {
+    top: 580px !important;
+    left: 51% !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+  .qrlocation4 {
+    top: 500px !important;
+    left: 56% !important;
+    width: 40px !important;
+    height: 40px !important;
+  }
+  
+}
+@media only screen and (min-width: 300px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 11px;
+    left: 49%;
+    width: 30px;
+    height: 30px;
+  }
+  .qrlocation2 {
+    top: 150px ;
+    left: 55%;
+    width: 40px;
+    height: 40px;
+  }
+  .qrlocation3 {
+    top: 200px;
+    left: 51%;
+    width: 40px;
+    height: 40px;
+  }
+  .qrlocation4 {
+    top: 330px;
+    left: 55%;
+    width: 40px;
+    height: 40px;
+  }
+  .qrlocation5 {
+    top: 400px;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  .qrlocation6 {
+    top: 560px;
+    left: 46%;
+    width: 40px;
+    height: 40px;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 13%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 53%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 54%;
+  }
+  .lmlocation4 {
+    top: 1995px;
+    left: 64%;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 55%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 55%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 31%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 550px;
+    left: 47%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location2 {
+    top: 585px;
+    left: 52%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 37%;
+    height: 50px;
+    width: 50px;
+  }
+
+  .location4 {
+    top: 499px;
+    left: 58%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location5 {
+    top: 370px;
+    left: 51%;
+    width: 30px;
+    height: 30px;
+  }
+
+  .location6 {
+    top: 19px;
+    left: 52%;
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 11px;
+    left: 49%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation2 {
+    top: 420px;
+    left: 60%;
+    width: 50px;
+    height: 50px;
+  }
+  .qrlocation3 {
+    top: 500px;
+    left: 51%;
+    width: 50px;
+    height: 50px;
+  }
+  .qrlocation4 {
+    top: 700px;
+    left: 56%;
+    width: 50px;
+    height: 50px;
+  }
+  .qrlocation5 {
+    top: 1000px;
+    left: 53%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation6 {
+    top: 1315px;
+    left: 46%;
+    width: 50px;
+    height: 50px;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 12%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 62%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 54%;
+  }
+  .lmlocation4 {
+    top: 1995px;
+    left: 84%;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 67%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 60%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 25%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 1250px;
+    left: 47%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location2 {
+    top: 1300px;
+    left: 52%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 28%;
+  }
+
+  .location4 {
+    top: 1300px;
+    left: 58%;
+    width: 50px; 
+    height:50px;
+  }
+
+  .location5 {
+    top: 780px;
+    left: 51%;
+    width: 50px;
+    height: 50px;
+  }
+
+  .location6 {
+    top: 19px;
+    left: 52%;
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 11px;
+    left: 52%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation2 {
+    top: 550px;
+    left: 60%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation3 {
+    top: 656px;
+    left: 51%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation4 {
+    top: 900px;
+    left: 56%;
+    width: 70px;
+    height: 70px;
+  }
+  .qrlocation5 {
+    top: 1200px;
+    left: 53%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation6 {
+    top: 1690px;
+    left: 46%;
+    width: 70px;
+    height: 70px;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 21%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 59%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 54%;
+  }
+  .lmlocation4 {
+    top: 1995px;
+    left: 76%;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 63%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 58%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 31%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 1600px;
+    left: 47%;
+    width: 70px;
+    height: 70px;
+  }
+
+  .location2 {
+    top: 1690px;
+    left: 52%;
+    width: 70px;
+    height: 70px;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 34%;
+  }
+
+  .location4 {
+    top: 1560px;
+    left: 58%;
+    width: 60px; 
+    height:60px;
+  }
+
+  .location5 {
+    top: 1050px;
+    left: 51%;
+    width: 70px;
+    height: 70px;
+  }
+
+  .location6 {
+    top: 19px;
+    left: 52%;
+    width: 80px;
+    height: 80px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 11px;
+    left: 52%;
+    width: 80px;
+    height: 80px;
+  }
+  .qrlocation2 {
+    top: 700px;
+    left: 60%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation3 {
+    top: 816px;
+    left: 51%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation4 {
+    top: 1065px;
+    left: 56%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation5 {
+    top: 1500px;
+    left: 53%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation6 {
+    top: 2037px;
+    left: 49%;
+    width: 90px;
+    height: 90px;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 30%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 56%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 52%;
+  }
+  .lmlocation4 {
+    top: 1995px;
+    left: 68%;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 59%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 55%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 37%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 2201px;
+    left: 47%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location2 {
+    top: 2489px;
+    left: 52%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 35%;
+  }
+
+  .location4 {
+    top: 2160px;
+    left: 58%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location5 {
+    top: 1200px;
+    left: 51%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location6 {
+    top: 6px;
+    left: 52%;
+    width: 90px;
+    height: 90px;
+  }
+}
+
+@media only screen and (max-width: 1500px) and (min-width: 1200px) {
+  /* --------------  QR Location Classes  -------------- */
+  .qrlocation1 {
+    top: 11px;
+    left: 52%;
+    width: 80px;
+    height: 80px;
+  }
+  .qrlocation2 {
+    top: 700px;
+    left: 60%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation3 {
+    top: 816px;
+    left: 51%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation4 {
+    top: 1065px;
+    left: 56%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation5 {
+    top: 1500px;
+    left: 53%;
+    width: 90px;
+    height: 90px;
+  }
+  .qrlocation6 {
+    top: 2037px;
+    left: 49%;
+    width: 90px;
+    height: 90px;
+  }
+
+  /* --------------  LandMark Location Classes  -------------- */
+  .lmlocation1 {
+    top: 20px;
+    left: 30%;
+  }
+  .lmlocation2 {
+    top: 1340px;
+    left: 56%;
+  }
+  .lmlocation3 {
+    top: 1677px;
+    left: 52%;
+  }
+  .lmlocation4 {
+    top: 1783px !important;
+    left: 58%;
+    width: 90px;
+    height: 90px;
+  }
+  .lmlocation5 {
+    top: 2314px;
+    left: 59%;
+  }
+  .lmlocation6 {
+    top: 2520px;
+    left: 55%;
+  }
+  .lmlocation7 {
+    top: 2814px;
+    left: 37%;
+  }
+
+  /* --------------  Pin Location Classes  -------------- */
+  .location1 {
+    top: 2180px;
+    left: 47%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location2 {
+    top: 2400px;
+    left: 52%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location3 {
+    top: 2335px;
+    left: 35%;
+  }
+
+  .location4 {
+    top: 2100px !important;
+    left: 58%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location5 {
+    top: 1200px;
+    left: 51%;
+    width: 90px;
+    height: 90px;
+  }
+
+  .location6 {
+    top: 6px;
+    left: 52%;
+    width: 90px;
+    height: 90px;
+  }
+}
+
+.modalImg{
+  width: 200px;
+}
+.siteModal{
+  margin-top: 200px;
+}
+.siteModal > .modal-dialog >.modal-content {
+background-color: rgba(255, 255, 255, 0.674) !important;
+}

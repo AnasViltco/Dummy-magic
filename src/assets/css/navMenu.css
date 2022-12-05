@@ -1,0 +1,193 @@
+.navbg {
+    background-color: transparent;
+    position: fixed;
+}
+.modalImge> .modal-dialog> .modal-content{
+    /* background-image: url("../areaMapImages/YasBayMap.jpg"); */
+      /* opacity: 0.75; */
+    padding: 30px;
+    color: white;
+     background-position: center;
+    background-repeat: no-repeat;
+    background: transparent;
+    /* border: 2px solid white; */
+    /* opacity: 0.9; */
+}
+.newsLetter> .modal-dialog> .modal-content{
+ margin-top: 200px;
+ /* margin-right: 50px; */
+/* padding: 50px; */
+}
+.modal-dialog> .modal-content > .modal-body{
+    position: relative;
+    line-height: 0.9;
+  text-align: center;
+}
+
+.modal-header{
+    border: none;
+}
+.butonCLose{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+.linkList{
+    color: rgb(50, 108, 156);
+    font-weight: 500;
+    padding: 3px;
+    margin: 15px;
+    font-size: 22px;
+    /* border: 1px solid rgba(255, 255, 255, 0.781); */
+    text-align: center;
+    font-weight: 500;
+    border-radius: 23px;
+    background-color: rgba(255, 255, 255, 0.778);
+    -webkit-backdrop-filter: blur(1px) !important;
+    backdrop-filter: blur(1px) !important;
+}
+.visitMarina{
+    color:white !important;
+    padding: 3px;
+    margin: 15px;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 23px;
+    background: #c5202ec0;
+}
+
+.modal-backdrop.show
+{
+    opacity: 0.2 !important;
+    border: none !important;
+}
+.visitFront{
+    color:white !important;
+    padding: 3px;
+    margin: 15px;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 23px;
+    background: #3a4b76c6;
+}
+.visitFront > a, .visitMarina > a{
+    color: white;
+    text-align: center;
+}
+.visitMarina > div > svg {
+    cursor: pointer;
+}
+.visitFront > div > svg {
+    cursor: pointer;
+}
+.input{
+    width: 100%;
+    /* margin: 10px; */
+    background-color: #CFE0F2;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+#times
+{
+    font-size: 170%;
+    color: #256AA3;
+}
+.input::placeholder{
+    text-align: center;
+    font-weight: 500;
+    width: 100%;
+    /* margin: 10px; */
+    background-color: #CFE0F2;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+.submitbutton{
+    width: 100%;
+    background-color: #123089;
+    /* margin: 10px; */
+}
+.letterText{
+    color: #256AA3;
+    font-weight: 500;
+    font-size: 130%;
+}
+.enjoyWinter{
+    color: #256AA3;
+    font-size: 45px;
+    font-weight: 500;
+    padding: 25px;
+    letter-spacing: 2px;
+    line-height: 1.1;
+}
+.modal-fullscreen-sm-down, .modal-fullscreen-lg-down{
+    height: unset !important;
+}
+.offerdiv{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.offerdiv > img{
+    width: 100px;
+}
+.offerdiv > p{
+    color: black;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.waterfrontButton{
+    border-radius: 10px;
+    /* border: 1px solid white; */
+    background-color: #256AA3;
+    color: white;
+    font-size: 10px;
+    width: 100% !important;
+}
+.mainaButton{
+    border-radius: 10px;
+    border: 1px solid #C5202E;
+    background-color: #C5202E;
+    color: lightgray;
+    font-size: 10px;
+    width: 100% !important;
+}
+.navicon{
+    position: absolute;
+    right: 26px;
+    top: 0px;
+    width: 43px;
+}
+.navicon > button, .backicon{
+    position: fixed;
+}
+.imgarrow{
+    width: 50px;
+    position: fixed;
+}
+.imgarrow1{
+    width: 50px;
+    position: fixed;
+    bottom: 5px;
+}
+
+.modalImge> .modal-dialog> .modal-content
+{
+    border: 1px solid rgba(255, 255, 255, 0) !important;
+}
+/* .imgDown{
+    position: absolute;
+}
+.imgDown > img{
+    position: relative;
+} */
+.iconData > img{
+    margin-top: 4px;
+    width: 30px;
+    height: 30px;
+}
